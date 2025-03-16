@@ -117,6 +117,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 HedaAllows
 
 ## Contacto
-- GitHub: [@HedaAllows](https://github.com/HedaAllows)
+- GitHub: [@HedaAllows](https://github.com/lHedal)
 
 
